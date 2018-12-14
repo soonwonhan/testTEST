@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet>
+  <ConditionTag
+    Comment=""
+    Name="PrintOnly"
+    BackgroundColor="#90ee90"
+    OriginalName="PrintOnly" />
+  <ConditionTag
+    Comment=""
+    Name="WebOnly"
+    BackgroundColor="Red"
+    OriginalName="WebOnly" />
+  <ConditionTag
+    BackgroundColor="#0000ff"
+    Name="NewTag"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#d7b7f1"
+    Name="Copy of NewTag"
+    Comment="" />
+</CatapultConditionTagSet>

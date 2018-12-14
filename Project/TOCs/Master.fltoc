@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/A_Introduction Topics/Getting Started.htm">
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/A_Introduction Topics/Basic Steps.htm" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/A_Introduction Topics/Whats New.htm">
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/B_Feature Topics/Features.htm">
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/B_Feature Topics/Feature1.htm">
+          <TocEntry
+            Title="[%=System.LinkedTitle%]"
+            Link="/Content/B_Feature Topics/Feature2.htm">
+            <TocEntry
+              Title="[%=System.LinkedTitle%]"
+              Link="/Content/Feature4.htm">
+              <TocEntry
+                Title="[%=System.LinkedTitle%]"
+                Link="/Content/Feature5.htm" />
+            </TocEntry>
+          </TocEntry>
+        </TocEntry>
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/B_Feature Topics/Feature3.htm" />
+      </TocEntry>
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/C_Procedure Topics/Procedures.htm">
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/C_Procedure Topics/Procedure1.htm" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/C_Procedure Topics/Procedure3.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/D_More Information/Company Information.htm"
+    BreakType="chapter"
+    PageType="empty"
+    StartSection="false"
+    PageNumberReset="continue">
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/D_More Information/FAQs.htm"
+      conditions="General.NewTag"
+      StartSection="false">
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/D_More Information/PDF Downloads.htm"
+        conditions="General.PrintOnly" />
+    </TocEntry>
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/D_More Information/Tips.htm"
+      conditions="General.WebOnly" />
+  </TocEntry>
+  <TocEntry
+    Title="Appendix">
+    <TocEntry
+      Title="New Entry" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/C_Procedure Topics/Procedure2.htm" />
+  </TocEntry>
+</CatapultToc>

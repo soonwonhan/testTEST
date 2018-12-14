@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultBatchTarget
+  Version="1"
+  Comment="New Batch Target">
+  <Targets>
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="abc"
+      Type="Word"
+      Build="true"
+      Publish="true"
+      LastBuilt="2018-11-05T11:34:51.6570000-08:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="abc1"
+      Type="PDF"
+      Build="true"
+      Publish="true"
+      LastBuilt="2018-11-06T15:12:37.6682311-08:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="HTML5 - Top Navigation"
+      Type="HTML5"
+      LastBuilt="2018-10-30T12:12:53.6738343-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="HTML5 - Top Navigation FixedSideMenu"
+      Type="HTML5" />
+  </Targets>
+</CatapultBatchTarget>
