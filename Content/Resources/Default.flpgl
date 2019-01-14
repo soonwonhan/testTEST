@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PageStyles>
+    <Page Name="Normal" Width="800" Height="800" Padding="1in" PageSize="Letter" PaddingLeft="1in" PaddingRight="1in" PaddingTop="1in" PaddingBottom="1in">
+        <Frame Flow="header" Height="0.5in" Right="0px" X="0px" Y="-0.75in" ColumnCount="1" Width="6.5in" Bottom="888px">
+        </Frame>
+        <Frame Flow="body" ColumnCount="1" ColumnGap="0.25in" ColumnDivider="Solid 1pt Black" Width="6.5in" Height="9in" X="0px" Y="0px" Right="0px" Bottom="0px">
+        </Frame>
+        <Frame Flow="footer" Height="0.65625in" Right="-29px" Bottom="-72px" X="-3px" Y="9.09375in" Width="6.833333in" ColumnCount="1" DividerWidth="0" VerticalAlign="top" Anchors="">
+            <Content>
+                <xhtml:html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:head>
+                    </xhtml:head>
+                    <xhtml:body>
+                        <xhtml:table xhtml:style="width: 100%;border-top-style: solid;border-top-width: 1px;border-top-color: #a9a9a9;">
+                            <xhtml:col xhtml:style="width: 1254px;" />
+                            <xhtml:col xhtml:style="width: 1.750in;" />
+                            <xhtml:tbody>
+                                <xhtml:tr xhtml:style="height: 17px;">
+                                    <xhtml:td>
+                                        <xhtml:p xhtml:class="footer">© <MadCap:variable xhtml:name="Variables.CompanyName" /> <MadCap:variable xhtml:name="Variables.AircraftName" /> <MadCap:variable xhtml:name="Variables.AircraftNumber" /> - Pilot Operating Manual - Version <MadCap:variable xhtml:name="Variables.FooterVersion" /> - CONFIDENTIAL</xhtml:p>
+                                    </xhtml:td>
+                                    <xhtml:td>
+                                        <xhtml:p xhtml:class="footer" xhtml:style="text-align: right;"> | <MadCap:variable xhtml:name="System.PageNumber" /></xhtml:p>
+                                    </xhtml:td>
+                                </xhtml:tr>
+                            </xhtml:tbody>
+                        </xhtml:table>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+    </Page>
+    <Page Width="800" Height="800" Padding="1in" PageSize="Letter" PaddingLeft="1in" PaddingRight="1in" PaddingTop="1in" PaddingBottom="1in" PageType="title">
+        <Frame X="-96px" Y="-97px" Width="818px" Height="850px" Flow="decoration0" Right="-98px" Bottom="111px" Anchors="" BackgroundImage="../Images/POM 4.0 Cover Page - ADUSA.jpg" />
+        <Frame X="-97px" Y="754px" Width="819px" Height="206px" Flow="body" Right="-98px" Bottom="-96px" BorderBottomStyle="solid" BorderBottomWidth="10px" BorderBottomColor="#e31937" Anchors="" />
+    </Page>
+</PageStyles>
