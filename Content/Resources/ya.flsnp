@@ -3,9 +3,6 @@
     <head>
     </head>
     <body>
-        <p>This is a snippet</p>
-        <p>&#160;</p>
-        <p><MadCap:variable name="General.rpt-filename" />
-        </p>
+        <p>this is totally a snippet. yup yup.</p>
     </body>
 </html>
