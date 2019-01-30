@@ -11,8 +11,8 @@
   MasterPage="/Content/Resources/MasterPages/OtherTopicsFixedSideMenu.flmsp"
   ResultsPerPage="10"
   Skin="/Project/Skins/HTML5 - Top Navigation.flskn"
-  ConditionTagExpression="include[General.PrintOnly]exclude[General.WebOnly]"
-  DefaultUrl="/Content/B_Feature Topics/Feature2.htm">
+  DefaultUrl="/Content/B_Feature Topics/Feature2.htm"
+  ConditionTagExpression="include[(General.NewTag AND General.PrintOnly) AND NOT ( &quot;General.Copy of NewTag&quot; or General.WebOnly )]">
   <PrintedOutput
     CollapseMargins="true"
     GenerateTOCProxy="true"
