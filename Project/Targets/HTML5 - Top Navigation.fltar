@@ -12,7 +12,7 @@
   ResultsPerPage="10"
   Skin="/Project/Skins/HTML5 - Top Navigation.flskn"
   DefaultUrl="/Content/B_Feature Topics/Feature2.htm"
-  ConditionTagExpression="include[(General.NewTag AND General.PrintOnly) AND NOT ( &quot;General.Copy of NewTag&quot; or General.WebOnly )]">
+  ConditionTagExpression="">
   <PrintedOutput
     CollapseMargins="true"
     GenerateTOCProxy="true"

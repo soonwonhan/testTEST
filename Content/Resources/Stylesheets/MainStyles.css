@@ -1,4 +1,4 @@
-/*<meta />*/
+﻿/*<meta />*/
 
 body
 {
@@ -185,3 +185,8 @@ a
 	}
 }
 
+.MCPopupContainer
+{
+position: absolute;
+left: 25% !important;
+}
